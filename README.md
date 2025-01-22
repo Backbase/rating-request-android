@@ -4,7 +4,7 @@ This repository contains the components and documentation of the Android Version
 
 ## Description
 This journey lets you trigger dialog to add rating & review on the App's Google PlayStore account.
-![WhatsNewJourneyExample](/Users/kunalj/Desktop/In-app-review-image.jpg)
+![InAppRatingAndReviewJourney](https://developer.android.com/static/images/google/play/in-app-review/iar-flow.jpg)
 
 ## Table of Contents
 - [Device Requirements](#device-requirements)
