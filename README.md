@@ -4,7 +4,7 @@ This repository contains the components and documentation of the Android Version
 
 ## Description
 This journey lets you trigger dialog to add rating & review on the App's Google PlayStore account.
-![WhatsNewJourneyExample](./Users/kunalj/Desktop/In-app-review-android.avif)
+![WhatsNewJourneyExample](/Users/kunalj/Desktop/In-app-review-image.jpg)
 
 ## Table of Contents
 - [Device Requirements](#device-requirements)
@@ -34,11 +34,10 @@ implementation("com.google.android.play:review:2.0.2")
 ...
 }
 ```
-### 2. Invoke extension function to trigger review dialog
+### 2. Invoke context extension function to trigger review dialog
 ``` 
-launchInAppReview{ isSuccessful -> }
+Context.launchInAppReview{ isSuccessful -> }
 ```
-#### Note
 
 
 ## TroubleShooting
